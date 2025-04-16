@@ -40,7 +40,7 @@ The final Power BI dashboard provides a clear visual overview of the data across
 - **Male**: 40%  
 - **Non-binary**: 10%  
 
-![Gender Distribution](Healthcare-Data-Analysis-Project/Screenshot-2025-04-16-141316.png)
+![Gender Distribution](gender-distribution.png)
 
 ---
 
@@ -50,7 +50,7 @@ The final Power BI dashboard provides a clear visual overview of the data across
 - Urgent: 33.47%  
 - Emergency: 32.92%  
 
-![Admission Types](Screenshot-2025-04-16-141525.png)
+![Admission Types](admission-type.png)
 
 ---
 
@@ -60,7 +60,7 @@ The final Power BI dashboard provides a clear visual overview of the data across
 - Inconclusive: 35%  
 - Normal: 10%  
 
-![Test Results](Screenshot-2025-04-16-141534.png)
+![Test Results](test-result.png)
 
 ---
 
@@ -68,7 +68,7 @@ The final Power BI dashboard provides a clear visual overview of the data across
 
 Hospital visits remain fairly consistent throughout the year, with peaks in certain months.
 
-![Admissions Per Month](Screenshot-2025-04-16-141603.png)
+![Admissions Per Month](monthly-admissions.png)
 
 ---
 
@@ -81,7 +81,7 @@ The top hospitals include:
 - Johns Hopkins
 - Massachusetts General
 
-![Hospital Locations](Screenshot-2025-04-16-141613.png)
+![Hospital Locations](hospital-locations.png)
 
 ---
 
@@ -94,7 +94,7 @@ The top hospitals include:
   - Cigna: $0.14B  
   - Aetna: $0.14B  
 
-![Revenue by Insurance Provider](Screenshot-2025-04-16-141551.png)
+![Revenue by Insurance Provider](insurance-revenue.png)
 
 ---
 
@@ -108,7 +108,7 @@ Patient age groups were distributed as follows:
 - 45–54  
 - 55+  
 
-Most elderly patients (55+) were women, with abnormal results and a preference for elective procedures.
+Most elderly patients (55+) were women, with abnormal results and a preference for elective admissions.
 
 ---
 
@@ -123,7 +123,7 @@ Most elderly patients (55+) were women, with abnormal results and a preference f
 | Cancer        | 6,000              |
 | Asthma        | 4,000              |
 
-![Medical Conditions](Screenshot-2025-04-16-141544.png)
+![Medical Conditions](medical-conditions.png)
 
 ---
 
