@@ -40,7 +40,7 @@ The final Power BI dashboard provides a clear visual overview of the data across
 - **Male**: 40%  
 - **Non-binary**: 10%  
 
-![Gender Distribution](Screenshot-2025-04-16-141316.png)
+![Gender Distribution](Healthcare-Data-Analysis-Project/Screenshot-2025-04-16-141316.png)
 
 ---
 
