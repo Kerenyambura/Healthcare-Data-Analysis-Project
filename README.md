@@ -130,10 +130,8 @@ Most elderly patients (55+) were women, with abnormal results and a preference f
 ## 🙌 Acknowledgments
 
 Special thanks to:
-- **Zindua Group 10** for collaboration and project ownership
+- **Zindua Group 10** for collaboration and project ownership: Kemei Brenda, Emmanuel Favour Munyao,Kelvin Kipkemoi Ngetich
 - **Zindua School** for mentorship and technical support
 - Microsoft Power BI for enabling advanced analytics and data storytelling
 
 ---
-
-> 📝 _Note: All chart images should be exported from Power BI and saved in an `images/` folder within your repository. Replace image file names above with your actual exports._
